@@ -1,0 +1,30 @@
+body{
+    background-color: #665959;
+    font-family: 'Arial', sans-serif; /* Cambiado a Arial */
+    font-size: 20px; /* Ajuste del tamaño de fuente */
+    color: #FFFFFF; /* Cambiado el color de la fuente a blanco */
+}
+
+td{
+    vertical-align: text-top;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #FFD700; /* Cambiado a un color dorado */
+}
+
+div {
+    color: #FFFFFF; /* Texto blanco dentro de los divs */
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #FFD700; /* Cambiado el color del borde a dorado */
+    background-color: #646464; /* Fondo oscuro para contraste */
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px #FFD700; /* Sombra dorada */
+}
